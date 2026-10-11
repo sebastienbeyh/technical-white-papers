@@ -128,7 +128,7 @@ A technical book examining concepts associated with intelligent radio networks, 
 
 [View the book on Amazon](https://www.amazon.com/dp/B0GX2SLJ85)
 
-[View the technical repository](https://github.com/sebastienbeyhand/ai-ran-engineering)
+[View the technical repository](https://github.com/sebastienbeyh/ai-ran-engineering)
 
 ---
 
@@ -142,7 +142,7 @@ A technical work addressing cyber resilience through a layered engineering persp
 
 [View the book on Amazon](https://www.amazon.com/dp/B0HKM9PRBX)
 
-[View the technical repository](https://github.com/sebastienbeyhand/engineering-cyber-resilience)
+[View the technical repository](https://github.com/sebastienbeyh/engineering-cyber-resilience)
 
 ---
 
@@ -216,23 +216,23 @@ Public portfolio material is limited to work that can appropriately be disclosed
 
 ### Technical Writing Portfolio
 
-[View the complete technical writing portfolio](https://github.com/sebastienbeyhand/technical-writing-portfolio)
+[View the complete technical writing portfolio](https://github.com/sebastienbeyh/technical-writing-portfolio)
 
 ### Engineering Writing Samples
 
-[View engineering writing samples](https://github.com/sebastienbeyhand/engineering-writing-samples)
+[View engineering writing samples](https://github.com/sebastienbeyh/engineering-writing-samples)
 
 ### Technical Ghostwriting
 
-[View technical ghostwriting services and portfolio](https://github.com/sebastienbeyhand/technical-ghostwriting)
+[View technical ghostwriting services and portfolio](https://github.com/sebastienbeyh/technical-ghostwriting)
 
 ### AI-RAN Engineering
 
-[Explore the AI-RAN technical repository](https://github.com/sebastienbeyhand/ai-ran-engineering)
+[Explore the AI-RAN technical repository](https://github.com/sebastienbeyh/ai-ran-engineering)
 
 ### Engineering Cyber Resilience
 
-[Explore the cyber resilience technical repository](https://github.com/sebastienbeyhand/engineering-cyber-resilience)
+[Explore the cyber resilience technical repository](https://github.com/sebastienbeyh/engineering-cyber-resilience)
 
 ---
 
